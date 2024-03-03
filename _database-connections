@@ -1,0 +1,24 @@
+// StackOverflow recommendation
+// const mongoose = () => {
+//     mongoose.connect(process.env.DATABASE_URL) // Replaced mongoose.connect(`mongodb://${config.db.host}:${config.db.port}/${config.db.name}`)
+//     .then(()=>{
+//        console.log("DB connection successful.");
+//     })
+//     .catch((err)=>{
+//        console.log(`DB connection error:${err}`);
+//     });
+//  }
+
+// Original code
+// const mongoose = require('mongoose')
+// mongoose.connect(process.env.DATABASE_URL, {
+//     useNewUrlParser: true })
+//     const db = mongoose.connection
+//     db.on('error', error => console.error(error))
+//     db.once('open', () => console.log('Connected to Mongoose'))
+
+MongoDB access:
+Username: MattSugden
+Password: i7fKkvT1hGXqNymA
+IP Address: 165.225.199.87/32
+mongodb+srv://MattSugden:i7fKkvT1hGXqNymA@cluster0.j7aapzr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
