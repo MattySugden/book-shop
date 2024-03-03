@@ -18,7 +18,7 @@
 //     db.once('open', () => console.log('Connected to Mongoose'))
 
 MongoDB access:
-Username: MattSugden
-Password: i7fKkvT1hGXqNymA
-IP Address: 165.225.199.87/32
-mongodb+srv://MattSugden:i7fKkvT1hGXqNymA@cluster0.j7aapzr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+Username: MattySugden
+Password: nsTWdme3LOelUS0V
+IP Address: 165.225.199.96/32
+mongodb+srv://mattysugden:nsTWdme3LOelUS0V@cluster0.kmjetov.mongodb.net/AuthorDB?retryWrites=true&w=majority&appName=Cluster0
